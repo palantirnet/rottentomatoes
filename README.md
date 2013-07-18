@@ -72,7 +72,7 @@ IMDB IDs often have leading zeros, so if you're providing a literal ID be carefu
 that it doesn't get interpreted as an octal number.  That is, don't do this:
 
 ```php
-$connection->getMoviebyImdbId(01234);
+$connection->getMoviebyImdbId(01234); // Don't do this!
 ```
 
 Because PHP will interpret that as "1234" in base 8 (Octal).  Instead, quote
