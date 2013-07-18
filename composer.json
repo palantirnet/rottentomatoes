@@ -1,0 +1,11 @@
+{
+  "name": "palantirnet/rottentomatoes",
+  "description": "Bridge API for talking to Rotten Tomatoes",
+  "require": {
+    "guzzle/guzzle": ">=3.3",
+    "guzzle/rotten-tomatoes": "dev-master"
+  },
+  "autoload": {
+    "psr-0": { "PalantirNet\\RottenTomatoes": "src" }
+  }
+}
