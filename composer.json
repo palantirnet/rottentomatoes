@@ -1,6 +1,7 @@
 {
   "name": "palantirnet/rottentomatoes",
   "description": "Bridge API for talking to Rotten Tomatoes",
+  "license": "MIT",
   "require": {
     "guzzle/http": ">=3.3",
     "guzzle/rotten-tomatoes": "dev-master"
