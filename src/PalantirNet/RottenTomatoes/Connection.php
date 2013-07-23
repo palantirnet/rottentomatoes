@@ -11,7 +11,6 @@
 
 namespace PalantirNet\RottenTomatoes;
 
-use Guzzle\RottenTomatoes\RottenTomatoesClient;
 use Guzzle\Http\Exception\ClientErrorResponseException;
 use Guzzle\Common\Exception\GuzzleException;
 
