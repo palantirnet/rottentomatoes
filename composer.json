@@ -6,7 +6,7 @@
   "require": {
     "php": ">=5.3.3",
     "guzzle/http": ">=3.3",
-    "guzzle/rotten-tomatoes": "dev-master"
+    "guzzle/rotten-tomatoes": "dev-master@dev"
   },
   "autoload": {
     "psr-0": { "PalantirNet\\RottenTomatoes": "src" }
