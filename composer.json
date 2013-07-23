@@ -5,8 +5,7 @@
   "keywords": ["API", "REST", "Rotten Tomatoes"],
   "require": {
     "php": ">=5.3.3",
-    "guzzle/http": ">=3.3",
-    "guzzle/rotten-tomatoes": "dev-master@dev"
+    "guzzle/http": ">=3.3"
   },
   "autoload": {
     "psr-0": { "PalantirNet\\RottenTomatoes": "src" }
