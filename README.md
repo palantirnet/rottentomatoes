@@ -4,6 +4,8 @@ Rotten Tomatoes Bridge
 This library is a simple API wrapper around the Rotten Tomatoes API.  It is
 built on the Guzzle HTTP library.
 
+*Development on this package is closed.*
+
 ### Installing via Composer
 
 The recommended way to install this library is through [Composer](http://getcomposer.org).
